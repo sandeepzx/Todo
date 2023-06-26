@@ -1,0 +1,14 @@
+.banner{
+    background-color: rgb(245 158 11);
+    width: 100%;
+    height: 200px;
+    margin-bottom: 50px;
+}
+.banner-text{
+    
+    top: 15%;
+    left: 48%;
+    position: absolute;
+    transform: transform;
+
+}
